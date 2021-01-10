@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">proj2233</string>
+
+    <!--Main Activity-->
+    <string name="humidity">Humidity</string>
+    <string name="clouds">Clouds</string>
+    <string name="wind">Wind</string>
+
+</resources>
